@@ -1,0 +1,86 @@
+{
+	"baklanov_michail": {
+		"birthYear": "1914",
+		"deathYear": "1990",
+		"birthDate": "30.01.1914",
+		"deathDate": "23.01.1990",
+		"events": [
+			"1914 - 1932",
+			"1932 - 1936",
+			"1936 - 1940",
+			"1940 - 1944",
+			"1944 - 1950",
+			"1950 - 1990"
+		],
+		"gallery": ["1.png", "2.png", "3.png"],
+		"videoLink": "7CsnFSbpUqE",
+		"mapCoordinates": [47.5741, 37.3175]
+	},
+
+	"ananic_uriy": {
+		"birthYear": "1955",
+		"deathYear": "2015",
+		"birthDate": "23.11.1955",
+		"deathDate": "28.02.2015",
+		"events": ["1973 - 1978", "1978 - 2005", "2005", "2010", "2015"],
+		"gallery": ["1.png", "2.png", "3.png"],
+		"videoLink": "LiSW2jgILeQ",
+		"mapCoordinates": [53.902284, 27.561831]
+	},
+
+	"karako_viktor": {
+		"birthYear": "1948",
+		"deathYear": "...",
+		"birthDate": "29.07.1948",
+		"deathDate": "...",
+		"events": [
+			"29.07.1948",
+			"1966 — 1972",
+			"1972 — 1976",
+			"1976 — 1982",
+			"1982 — 1998",
+			"1998",
+			"2003",
+			"2005"
+		],
+		"gallery": ["1.png", "2.png", "3.png"],
+		"videoLink": "BUnzvaER5l8",
+		"mapCoordinates": [53.677839, 23.829529]
+	},
+
+	"korol_vladimir": {
+		"birthYear": "1912",
+		"deathYear": "1980",
+		"birthDate": "14.12.1912",
+		"deathDate": "28.05.1980",
+		"events": [
+			"14.12.1912",
+			"1931 - 1934",
+			"1934 - 1945",
+			"1945 — 1955",
+			"1955 — 1957",
+			"1957 — 1978",
+			"1978 — 1979"
+		],
+		"gallery": ["1.png", "2.png", "3.png"],
+		"videoLink": "6H75nml2WMM",
+		"mapCoordinates": [53.714177, 28.418114]
+	},
+
+	"langbard_iosif": {
+		"birthYear": "1882",
+		"deathYear": "1951",
+		"birthDate": "06.01.1882",
+		"deathDate": "03.01.1951",
+		"events": [
+			"06.01.1882",
+			"1907 — 1914",
+			"1914 - 1918",
+			"1929",
+			"1941 - 1945"
+		],
+		"gallery": ["1.png", "2.png", "3.png"],
+		"videoLink": "dlQIlW3V-iU",
+		"mapCoordinates": [52.765155, 23.186793]
+	}
+}

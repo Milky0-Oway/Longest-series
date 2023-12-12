@@ -1,0 +1,125 @@
+
+.greetings {
+    padding-top: 15px;
+    padding-bottom: 60px;
+    font-family: Namyv;
+    font-weight: 700;
+
+    font-size: 46px;
+    color: white;
+    /*text-shadow: darkorange 1px 0px 10px;*/
+    text-align: center;
+}
+
+.greetings::first-letter {
+    color: red;
+}
+
+.about {
+    /*box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6)!important;*/
+    padding-bottom: 30px;
+    padding-top: 15px;
+    width: 100%;
+    background-color: black;
+    border-top: 2px solid skyblue;
+    border-bottom: 2px solid skyblue;
+    /*background-image: url("../../img/bckg_about.png");*/
+    /*background-repeat: no-repeat !important;*/
+    /*background-size: cover !important;*/
+
+    flex-direction: row !important;
+    align-items: center;
+    justify-content: space-around !important;
+
+}
+
+
+.text {
+    font-family: Namyv;
+    font-weight: 400;
+    color: white;
+    font-size: 24px;
+    width: 40%;
+    padding-left: 50px;
+}
+
+/* Extra small devices (phones, 600px and down) */
+/*@media only screen and (max-width: 360px) {*/
+/*    .about {*/
+/*        flex-direction: column !important;*/
+/*    }*/
+
+/*    .text {*/
+/*        width: 80%;*/
+/*        text-align: center;*/
+/*        color: white;*/
+/*        padding-top: 20px;*/
+/*    }*/
+
+/*    .greetings {*/
+/*        width: 90%;*/
+/*        text-align: center;*/
+/*    }*/
+/*}*/
+
+/*!* Small devices (portrait tablets and large phones, 600px and up) *!*/
+/*@media only screen and (max-width: 600px) {*/
+/*    .about {*/
+/*        flex-direction: column !important;*/
+/*    }*/
+
+/*    .text {*/
+/*        width: 80%;*/
+/*        text-align: center;*/
+/*        color: #FFF;*/
+/*        padding-top: 20px;*/
+/*    }*/
+
+/*    .greetings {*/
+/*        width: 90%;*/
+/*        text-align: center;*/
+/*    }*/
+/*}*/
+
+/*!* Medium devices (landscape tablets, 768px and up) *!*/
+/*@media only screen and (max-width: 768px) {*/
+/*    .about {*/
+/*        flex-direction: column !important;*/
+/*    }*/
+
+/*    .text {*/
+/*        width: 80%;*/
+/*        text-align: center;*/
+/*        color: #FFF;*/
+/*        padding-top: 20px;*/
+/*    }*/
+
+/*    .greetings {*/
+/*        width: 90%;*/
+/*        text-align: center;*/
+/*    }*/
+/*}*/
+
+
+@media only screen and (max-width: 992px) {
+    .about {
+        flex-direction: column !important;
+    }
+
+    .text {
+        width: 80%;
+        text-align: center;
+        color: #ffffff;
+        padding-top: 20px;
+    }
+
+    .greetings {
+        width: 90%;
+        text-align: center;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (max-width: 1200px) {
+
+}

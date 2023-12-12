@@ -1,0 +1,128 @@
+{
+	"home_page": "Home",
+	"list_of_arch": "Architects",
+	"russian_lang": "Russian",
+	"english_lang": "English",
+	"greetings": "Belarusian architecture is in front of you",
+	"about1": "Belarusian architecture is represented by a vastness of architectural styles that are interesting individually, but in combination form something special.",
+	"about2": "Meet some Belarusian architects.",
+
+	"developers": "Developers",
+	"dev1": "Kononchuk Denis",
+	"dev2": "Baran Igor",
+	"dev3": "Novik Vladislav",
+
+	"person_of_day": "Person of the Day",
+	"personButton": "More...",
+
+	"architectsListHeader": "List of architects of Belarus",
+	"searchCaption": "Search for an architect",
+
+	"architects": {
+		"baklanov_michail": {
+			"name": "Michail",
+			"surname": "Baklanov",
+			"patronymic": "Ivanovich",
+			"shortDescription": "Belarusian Soviet architect. Honored Architect of the Belarusian SSR. Implemented an art gallery (art museum) BSSR.",
+			"longDescription": "M. Baklanov's skill was formed under the influence of such prominent masters of architecture as I. Langbard, M. Sailboats, M. Barsch. M. Baklanov fully shared their creative preferences and throughout 1944-1950 was their student and active assistant. M. Baklanov managed to gain creative independence only in 1949, when he received his first major order — the development of the project of the building of the State Art Gallery of the BSSR.",
+			"info": [
+				"He was born on January 30, 1914 in the village of Ivanovka (now Volnovakha district of Donetsk region of Ukraine). After graduating from the school of factory education, he worked as a draftsman at the Donetsk Metallurgical Plant.",
+				"In 1932, M. Baklanov began studying at the Kharkov Architectural and Construction College.",
+				"In 1936 he entered the Kharkiv Institute of Civil Engineering (now Kharkiv National University of Construction and Architecture). However, he did not finish his studies.",
+				"In December 1940, from the 4th year, he was drafted into the army, and soon he was sent to the 17th separate division of barrage balloons near Bialystok. At the beginning of the Great Patriotic War, Private Baklanov fought with the Nazis, but in July 1941 he was captured. Until 1943 he was in prison camps in Poland. In March, he fled and soon after joined the partisan brigade \"People's Avengers\". For his active participation in the battles with the invaders, he was awarded the medal \"Partisan of the Patriotic War\" I degree.",
+				"After the liberation of Belarus, Mikhail Baklanov in August 1944 was sent to work in the architectural and planning workshop of the Department for Architecture under the SNK of the BSSR (Belgosproject) in the workshop headed by Professor M. Barsch. For 36 years, the architect's work biography has been associated with this institute. Here he worked his way up from an ordinary architect to the head of an architectural design workshop. The skill of M. Baklanov was formed under the influence of such prominent masters of architecture as I. Langbard, M. Sailboats, M. Barsch. M. Baklanov fully shared their creative preferences and throughout 1944-1950 was their student and active assistant. M. Baklanov managed to gain creative independence only in 1949, when he received his first major order — the development of the project of the building of the State Art Gallery of the BSSR.",
+				"After retirement, he became interested in painting, copied the works of Russian artists of the second half of the XIX century."
+			],
+			"captions": [
+				"National Art Museum of the Republic of Belarus",
+				"M. Gorky National Academic Drama Theater",
+				"An envelope with the original stamp of the Republic of Belarus, dedicated to the 100th anniversary of the birth of M. I. Baklanov. 2014"
+			]
+		},
+
+		"ananic_uriy": {
+			"name": "Yuriy",
+			"surname": "Ananic",
+			"patronymic": "Stepanovich",
+			"shortDescription": "Belarusian architect. He contributed to the formation of the architectural appearance of modern Minsk and other Belarusian cities. Member of the Belarusian Union of Architects.",
+			"longDescription": "Born in Minsk, his father is a driver of a fast train. In 1978 he graduated from the Architectural Faculty of the Belarusian State Polytechnic Institute (now BNTU) with a degree in urban planning. After completing his studies, he worked for thirty years in RUE Institute Belgosproekt. For some time he held the position of chief architect at Global Investments.",
+			"info": [
+				"Studied at BNTU",
+				"After completing his studies, he worked for thirty years in RUE \"Institute Belgosproekt\"",
+				"Reconstruction of the central part of Minsk within the 1st ring.",
+				"Construction of the residential area \"Lebyazhy\" in Minsk.",
+				"Tragically died at the Ptich railway station of the Minsk district."
+			],
+			"captions": [
+				"Reconstruction of the building of the National Bank of Belarus (2002)",
+				"Branch building No. 511 of Belarusbank ASB",
+				"Residential complex of the Embassy of the Russian Federation in Belarus"
+			]
+		},
+
+		"karako_viktor": {
+			"name": "Viktor",
+			"surname": "Karako",
+			"patronymic": "Ivanovic",
+			"shortDescription": "Belarusian architect, member of the Board of the Belarusian Union of Architects, winner of the Lenin Komsomol Prize of Belarus, head of the creative workshop.",
+			"longDescription": "Viktor Ivanovich Karako (belor. Karaka Viktar Ivanavich; b. July 29, 1948, Grodno) — Belarusian architect, member of the Board of the Belarusian Union of Architects, winner of the Lenin Komsomol Prize of Belarus, head of the creative workshop.",
+			"info": [
+				"Born on July 29, 1948 in Grodno, Byelorussian SSR.",
+				"He studied at the Department of Architecture of the Belarusian Polytechnic Institute.",
+				"He worked as an architect, senior architect, chief architect of projects, head of the workshop at BELGOSPROJECt.",
+				"In 1976-1982, head of a group of architects, chief architect of projects, head of the Belniipgradostroitelstvo workshop. In 1982, he became a laureate of the Lenin Komsomol of Belarus in the field of architecture for the project of the Youth Palace in Novopolotsk.",
+				"He worked as an architect, senior architect, chief architect of projects, head of the workshop at BELGOSPROJECt.",
+				"Since 1998, he has been heading his own creative workshop.",
+				"Since 2003, he has been teaching design at the Faculty of Architecture of the Belarusian National Technical University.",
+				"Since 2005, he has been a member of the Board of the Belarusian Union of Architects, chairman of the BSE city organization and a member of the City Monumental and Decorative Council."
+			],
+			"captions": [
+				"Reconstruction of school 4 in Minsk",
+				"Youth Center in Novopolotsk",
+				"Judge's house on the Borovaya racing ring"
+			]
+		},
+
+		"korol_vladimir": {
+			"name": "Vladimir",
+			"surname": "Korol",
+			"patronymic": "Adamovich",
+			"shortDescription": "Soviet, Belarusian architect, teacher. People's Architect of the USSR (1970)",
+			"longDescription": "Full member of the Academy of Arts of the USSR (1979). Corresponding member of the Academy of Construction and Architecture of the USSR (1957). Member of the Union of Architects of the Byelorussian SSR (1942).Member of the CPSU (b) since 1940. Delegate of the XXII Congress of the CPSU",
+			"info": [
+				"Vladimir Korol was born on December 14 (27), 1912 in the city of Igumen (now Cherven, Minsk region of Belarus)",
+				"In 1931 he graduated from the Vitebsk Art College. For several years he worked as a teacher and director of one of the schools in Dzerzhinsk, Minsk region.",
+				"From 1934 to 1941 he studied at the Architectural Faculty of the Leningrad Institute of Painting, Sculpture and Architecture, where talented architects and teachers worked at that time: I. Fomin, L. Rudnev, I. Langbard. He successfully defended his thesis project and immediately after graduating from the academy he was enrolled in graduate school (Samarkand, 1943-1945).",
+				"Deputy Head of the Main Department for Architecture Affairs under the Council of Ministers of the Byelorussian SSR.",
+				"Head of the Main Department for Architecture under the Council of Ministers of the Belarusian SSR",
+				"Chairman of the Committee for Construction and Architecture of the Belarusian SSR.",
+				"Chairman of the State Construction Committee of the Belarusian SSR."
+			],
+			"captions": [
+				"Leninsky Prospekt (now Independence Avenue)",
+				"A postcard of Belarus with the original stamp '100 years since the birth of V. A. King.' 2012",
+				"V. Korol's grave in the Eastern cemetery of Minsk."
+			]
+		},
+
+		"langbard_iosif": {
+			"name": "Iosif",
+			"surname": "Langbard",
+			"patronymic": "Grigorievich",
+			"shortDescription": "Belarusian Soviet architect, Honored Artist of the Belarusian SSR (1934), winner of the Grand Prix of the World Exhibition in Paris, 1937, Doctor of Architecture (since 1939).",
+			"longDescription": "Is one of the outstanding architects of Europe of the XX century, whose artistic heritage has had a significant impact on the development of modern architecture. His architectural works greatly influenced the formation of the appearance of the city of Minsk and are examples of Belarusian architecture.",
+			"info": [
+				"Joseph Langbard was born on January 6 (18), 1882 in the town of Belsk, Grodno province of the Russian Empire, in a Jewish family. His father saw a future for his son in commerce, but Joseph loved to draw since childhood.",
+				"In 1907, he moved to St. Petersburg, where he successfully passed the exams at the Higher Art School at the Imperial Academy of Arts at the Faculty of Architecture. He studied for seven years in St. Petersburg.",
+				"During the First World War, Langbard worked at the front as the head of an engineering detachment. Under his leadership, the zemstvo council in Kostroma, the agricultural museum and the miniature theater in Petrograd were built at that time. After the war, he was a contractor for a construction office at the Department of Health in Petrograd.",
+				"In 1929, he won the All-Union competition for the best project of the Government House of the Belarusian SSR. Langbard executed projects for buildings of the Institute of Mineral Raw Materials in Moscow, mechanical laundries, a dispensary and a kitchen factory, as well as the Botkin Infectious Diseases Hospital in Leningrad.",
+				"During the Second World War, Langbard worked on masking buildings in Leningrad, after evacuation to the rear, he lived in the Yaroslavl region. In 1944, he returned to Minsk, destroyed by the Nazis, where he worked on plans for the reconstruction of Minsk and Gomel as part of the commission of the Committee for Architecture under the SNK of the USSR."
+			],
+			"captions": [
+				"Independence Square in Minsk",
+				"Academy of Sciences Building in Minsk",
+				"Watercolor by Joseph Langbard 'Minsk'"
+			]
+		}
+	}
+}

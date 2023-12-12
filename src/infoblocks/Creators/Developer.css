@@ -1,0 +1,80 @@
+.developers-section {
+    /*box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);*/
+    width: 100%;
+    padding-top: 15px;
+    align-items: center;
+    background-color: black;
+}
+
+.heading_developers {
+    /*text-shadow: darkorange 1px 0px 10px;*/
+    color: white;
+    font-family: Namyv;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 35px;
+    text-align: center;
+}
+
+.heading_developers::first-letter {
+    color: red;
+}
+
+.developers {
+    display: flex;
+    flex-direction: row;
+    justify-content: center ;
+}
+
+.developer-card {
+    background-color: black !important;
+    border: 2px solid skyblue !important;
+    border-radius: 50% !important;
+    align-items: center !important;
+    width: 100%;
+    /*color: grey;*/
+    /*text-shadow: darkorange 1px 0px 10px;*/
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+.developer-photo {
+    align-items: center;
+    padding-top: 15px;
+    width: 73px !important;
+    height: 73px !important;
+
+}
+
+.developer-name {
+    font-family: Namyv;
+    font-size: 1rem;
+    color:white!important;
+    text-decoration: none;
+    margin-bottom:10px!important;
+}
+
+.developer-name:hover{
+    /*text-shadow: white 1px 1px 10px;*/
+}
+
+@media only screen and (max-width: 992px) {
+    .developers-section {
+        width: 100%;
+    }
+
+    .developers {
+        flex-direction: row;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .developers-section {
+        width: 100%;
+    }
+
+    .developers {
+        flex-direction: row;
+    }
+}

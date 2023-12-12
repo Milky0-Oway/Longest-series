@@ -1,0 +1,151 @@
+.architect-section {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	width: 100%;
+	background-color: darkgray;
+	align-items: center;
+}
+
+.architect-card {
+	background-color: gray !important;
+	border: none !important;
+	width: 80%;
+	flex-direction: row !important;
+	align-items: center;
+	animation: animatop 0.9s cubic-bezier(0.425, 1.14, 0.47, 1.125) forwards;
+}
+@keyframes animatop {
+	0% {
+		opacity: 0;
+		bottom: -500px;
+	}
+	100% {
+		opacity: 1;
+		bottom: 0px;
+	}
+}
+
+.architect-photo {
+	width: 20% !important;
+	filter: drop-shadow(4px 4px 30px rgba(0, 0, 0, 0.25));
+}
+
+.architect-name,
+.architect-years {
+	font-family: Playfair;
+	font-weight: 500;
+	color: white;
+	font-size: 30px !important;
+}
+
+.architect-name {
+	color: orange;
+	font-size: 3em !important;
+}
+
+.architect-description {
+	font-family: Playfair;
+	font-weight: 400;
+	color: white;
+	font-size: 1.2em;
+	width: 100%;
+}
+
+.vertical-info {
+	width: 80% !important;
+}
+
+.vertical-timeline-element-date-element {
+	color: orange !important;
+	font-size: 2em !important;
+	padding: 0 !important;
+}
+.vertical-timeline-element-content {
+	box-shadow: 0 3px 0 orange !important;
+}
+
+.works-carousel {
+	margin-top: 40px;
+	width: 90%;
+	text-align: center;
+}
+
+.carousel-image {
+	max-width: 90% !important;
+}
+
+.carousel-caption {
+	font-family: Playfair;
+	font-weight: 400;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	position: static !important;
+}
+
+.video-wrapper {
+	width: 80%;
+}
+
+.person-video {
+	width: 100%;
+	margin-top: 20px;
+	height: 600px;
+}
+
+.person-map {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 80%;
+	height: 600px;
+}
+
+@media only screen and (max-width: 992px) {
+	.architect-photo {
+		height: 40% !important;
+		width: 40% !important;
+	}
+
+	.architect-section {
+		width: 100% !important;
+	}
+
+	.architect-card {
+		flex-direction: column !important;
+		align-items: center !important;
+	}
+
+	.person-video,
+	.person-map {
+		height: 450px;
+	}
+
+	.architect-info {
+		text-align: center;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.architect-section {
+		width: 100% !important;
+	}
+
+	.architect-card {
+		flex-direction: column !important;
+		align-items: center !important;
+	}
+
+	.architect-info {
+		text-align: center;
+	}
+
+	.architect-photo {
+		height: 60% !important;
+		width: 60% !important;
+	}
+
+	.person-video,
+	.person-map {
+		height: 250px;
+	}
+}
