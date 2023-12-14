@@ -30,7 +30,7 @@ function PersonOfDay() {
 						{t(`architects.${id}.name`)}
 					</Card.Title>
 					<Card.Text className="person-years">
-						{data[id]["birthYear"]} - {data[id]["deathYear"]}
+						{t(`architects.${id}.birthYear`)} {t(`architects.${id}.deathYear`)}
 					</Card.Text>
 					<Card.Text className="person-description">
 						{t(`architects.${id}.shortDescription`)}

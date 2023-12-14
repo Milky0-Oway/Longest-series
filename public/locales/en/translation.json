@@ -1,29 +1,29 @@
 {
 	"home_page": "Home",
-	"list_of_arch": "Architects",
+	"list_of_arch": "Series",
 	"russian_lang": "Russian",
 	"english_lang": "English",
-	"greetings": "Belarusian architecture is in front of you",
-	"about1": "Belarusian architecture is represented by a vastness of architectural styles that are interesting individually, but in combination form something special.",
-	"about2": "Meet some Belarusian architects.",
+	"greetings": "Find out about the longest-running famous TV series",
+	"about1": "Watching TV series is one of the favorite recreational activities for many people around the world. Some of them amaze with the depth of the plot, some with the quality of filming, and some with the duration.",
+	"about2": "Meet the series that continue to delight their audiences for many years.",
 
 	"developers": "Developers",
-	"dev1": "Kononchuk Denis",
-	"dev2": "Baran Igor",
-	"dev3": "Novik Vladislav",
+	"dev1": "Anton Huscha",
+	"dev2": "Milena Korotkaia",
+	"dev3": "Andrei Churavscky",
 
-	"person_of_day": "Person of the Day",
+	"person_of_day": "Cinema of the day",
 	"personButton": "More...",
 
-	"architectsListHeader": "List of architects of Belarus",
-	"searchCaption": "Search for an architect",
+	"architectsListHeader": "List of longest running TV series",
+	"searchCaption": "Search series",
 
 	"architects": {
 		"baklanov_michail": {
-			"name": "Michail",
-			"surname": "Baklanov",
-			"patronymic": "Ivanovich",
-			"shortDescription": "Belarusian Soviet architect. Honored Architect of the Belarusian SSR. Implemented an art gallery (art museum) BSSR.",
+			"name": "Star Trek",
+			"birthYear": "(1966",
+			"deathYear": "- present day)",
+			"shortDescription": "«Star Trek» is an American science fiction media franchise about space expeditions, interplanetary conflicts, and interactions between humans and aliens.",
 			"longDescription": "M. Baklanov's skill was formed under the influence of such prominent masters of architecture as I. Langbard, M. Sailboats, M. Barsch. M. Baklanov fully shared their creative preferences and throughout 1944-1950 was their student and active assistant. M. Baklanov managed to gain creative independence only in 1949, when he received his first major order — the development of the project of the building of the State Art Gallery of the BSSR.",
 			"info": [
 				"He was born on January 30, 1914 in the village of Ivanovka (now Volnovakha district of Donetsk region of Ukraine). After graduating from the school of factory education, he worked as a draftsman at the Donetsk Metallurgical Plant.",
@@ -41,10 +41,10 @@
 		},
 
 		"ananic_uriy": {
-			"name": "Yuriy",
-			"surname": "Ananic",
-			"patronymic": "Stepanovich",
-			"shortDescription": "Belarusian architect. He contributed to the formation of the architectural appearance of modern Minsk and other Belarusian cities. Member of the Belarusian Union of Architects.",
+			"name": "Doctor Who",
+			"birthYear": "(1963",
+			"deathYear": "- present day)",
+			"shortDescription": "«Doctor Who»  a british science fiction television series by the BBC about an alien time traveler known as the Doctor.",
 			"longDescription": "Born in Minsk, his father is a driver of a fast train. In 1978 he graduated from the Architectural Faculty of the Belarusian State Polytechnic Institute (now BNTU) with a degree in urban planning. After completing his studies, he worked for thirty years in RUE Institute Belgosproekt. For some time he held the position of chief architect at Global Investments.",
 			"info": [
 				"Studied at BNTU",
@@ -61,10 +61,10 @@
 		},
 
 		"karako_viktor": {
-			"name": "Viktor",
-			"surname": "Karako",
-			"patronymic": "Ivanovic",
-			"shortDescription": "Belarusian architect, member of the Board of the Belarusian Union of Architects, winner of the Lenin Komsomol Prize of Belarus, head of the creative workshop.",
+			"name": "Supernatural",
+			"birthYear": "(2005",
+			"deathYear": "- 2020)",
+			"shortDescription": "«Supernatural» american dark fantasy television series about two brothers - hunters of evil spirits - who travel across the United States.",
 			"longDescription": "Viktor Ivanovich Karako (belor. Karaka Viktar Ivanavich; b. July 29, 1948, Grodno) — Belarusian architect, member of the Board of the Belarusian Union of Architects, winner of the Lenin Komsomol Prize of Belarus, head of the creative workshop.",
 			"info": [
 				"Born on July 29, 1948 in Grodno, Byelorussian SSR.",
@@ -84,10 +84,10 @@
 		},
 
 		"korol_vladimir": {
-			"name": "Vladimir",
-			"surname": "Korol",
-			"patronymic": "Adamovich",
-			"shortDescription": "Soviet, Belarusian architect, teacher. People's Architect of the USSR (1970)",
+			"name": "The Simpsons",
+			"birthYear": "(1989",
+			"deathYear": "- present day)",
+			"shortDescription": "«The Simpsons» american animated comedy series about the adventures of Homer Simpson's family.",
 			"longDescription": "Full member of the Academy of Arts of the USSR (1979). Corresponding member of the Academy of Construction and Architecture of the USSR (1957). Member of the Union of Architects of the Byelorussian SSR (1942).Member of the CPSU (b) since 1940. Delegate of the XXII Congress of the CPSU",
 			"info": [
 				"Vladimir Korol was born on December 14 (27), 1912 in the city of Igumen (now Cherven, Minsk region of Belarus)",
@@ -106,10 +106,10 @@
 		},
 
 		"langbard_iosif": {
-			"name": "Iosif",
-			"surname": "Langbard",
-			"patronymic": "Grigorievich",
-			"shortDescription": "Belarusian Soviet architect, Honored Artist of the Belarusian SSR (1934), winner of the Grand Prix of the World Exhibition in Paris, 1937, Doctor of Architecture (since 1939).",
+			"name": "General Hospital ",
+			"birthYear": "(1963",
+			"deathYear": "- present day)",
+			"shortDescription": "«General Hospital» is one of the longest-running American daytime television soap operas about the life and work of ordinary American doctors.",
 			"longDescription": "Is one of the outstanding architects of Europe of the XX century, whose artistic heritage has had a significant impact on the development of modern architecture. His architectural works greatly influenced the formation of the appearance of the city of Minsk and are examples of Belarusian architecture.",
 			"info": [
 				"Joseph Langbard was born on January 6 (18), 1882 in the town of Belsk, Grodno province of the Russian Empire, in a Jewish family. His father saw a future for his son in commerce, but Joseph loved to draw since childhood.",
