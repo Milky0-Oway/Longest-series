@@ -1,9 +1,5 @@
 {
 	"baklanov_michail": {
-		"birthYear": "1914",
-		"deathYear": "1990",
-		"birthDate": "30.01.1914",
-		"deathDate": "23.01.1990",
 		"events": [
 			"1914 - 1932",
 			"1932 - 1936",
@@ -18,10 +14,6 @@
 	},
 
 	"ananic_uriy": {
-		"birthYear": "1955",
-		"deathYear": "2015",
-		"birthDate": "23.11.1955",
-		"deathDate": "28.02.2015",
 		"events": ["1973 - 1978", "1978 - 2005", "2005", "2010", "2015"],
 		"gallery": ["1.png", "2.png", "3.png"],
 		"videoLink": "LiSW2jgILeQ",
@@ -31,8 +23,6 @@
 	"karako_viktor": {
 		"birthYear": "1948",
 		"deathYear": "...",
-		"birthDate": "29.07.1948",
-		"deathDate": "...",
 		"events": [
 			"29.07.1948",
 			"1966 — 1972",
@@ -49,10 +39,6 @@
 	},
 
 	"korol_vladimir": {
-		"birthYear": "1912",
-		"deathYear": "1980",
-		"birthDate": "14.12.1912",
-		"deathDate": "28.05.1980",
 		"events": [
 			"14.12.1912",
 			"1931 - 1934",
@@ -68,10 +54,6 @@
 	},
 
 	"langbard_iosif": {
-		"birthYear": "1882",
-		"deathYear": "1951",
-		"birthDate": "06.01.1882",
-		"deathDate": "03.01.1951",
 		"events": [
 			"06.01.1882",
 			"1907 — 1914",

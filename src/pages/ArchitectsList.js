@@ -53,7 +53,7 @@ function ArchitectsList() {
 					                    className="arch-photo"
 				                    />
                                     <div className="arch-inf">
-                                        <p className="series-fio">{t(`architects.${id[0]}.name`)} </p>
+                                        <p className="series-fio">{t(`architects.${id[0]}.name`)} {t(`architects.${id[0]}.birthYear`)} {t(`architects.${id[0]}.deathYear`)}</p>
                                         <p className="arch-descr">{t(`architects.${id[0]}.shortDescription`)}</p>
                                     </div>
                                 </div>
