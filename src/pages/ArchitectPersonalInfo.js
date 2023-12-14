@@ -32,7 +32,7 @@ function ArchitectPersonalInfo() {
 						{t(`architects.${id}.name`)}
 					</Card.Title>
 					<Card.Text className="architect-years">
-						{data[id]["birthDate"]} - {data[id]["deathDate"]}
+						{t(`architects.${id}.birthYear`)} {t(`architects.${id}.deathYear`)}
 					</Card.Text>
 					<Card.Text className="architect-description">
 						{t(`architects.${id}.longDescription`)}
