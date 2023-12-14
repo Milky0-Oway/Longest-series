@@ -8,7 +8,7 @@
 }
 
 .architect-card {
-	background-color: gray !important;
+	background-color: black !important;
 	border: none !important;
 	width: 80%;
 	flex-direction: row !important;
@@ -40,7 +40,7 @@
 }
 
 .architect-name {
-	color: orange;
+	color: rgb(255, 0, 0);
 	font-size: 3em !important;
 }
 
@@ -57,12 +57,12 @@
 }
 
 .vertical-timeline-element-date-element {
-	color: orange !important;
+	color: rgb(255, 0, 0) !important;
 	font-size: 2em !important;
 	padding: 0 !important;
 }
 .vertical-timeline-element-content {
-	box-shadow: 0 3px 0 orange !important;
+	box-shadow: 0 3px 0 #1495db !important;
 }
 
 .works-carousel {
