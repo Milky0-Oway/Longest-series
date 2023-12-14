@@ -15,11 +15,11 @@ function Developer() {
             <div className="developers">
                 <Card className="developer-card">
 
-                    <Card.Link href="https://github.com/AdrianViardo/Longest_series_in_history" target="_blank" className="developer-photo">
+                    <Card.Link href="https://github.com/AdrianViardo/Longest-series" target="_blank" className="developer-photo">
                         <Card.Img src={dev1} />
                     </Card.Link>
                     <Card.Body className="developer-info">
-                        <Card.Link  href="https://github.com/AdrianViardo/Longest_series_in_history" target="_blank" className="developer-name">{t("dev1")}</Card.Link>
+                        <Card.Link  href="https://github.com/AdrianViardo/Longest-series" target="_blank" className="developer-name">{t("dev1")}</Card.Link>
                     </Card.Body>
                 </Card>
 

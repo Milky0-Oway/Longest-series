@@ -1,9 +1,9 @@
 .architects-block {
-    background-color: gray;
+    background-color: black;
 }
 
 .architects-list-card{
-    background-color: gray !important;
+    background-color: black !important;
 	width: 100% !important;
 	align-items: center;
 }
@@ -14,12 +14,12 @@
 }
 
 .arch-list-item{
-    background-color: darkgray !important;
+    background-color: black !important;
 	align-items: center;
     display:flex;
 }
 .arch-photo{
-    width: 10%;
+    width: 15%;
 }
 .arch-card{
     display: flex;
@@ -29,7 +29,7 @@
     padding-top: 2%;
 }
 .arch-list-item:hover{
-    background-color: white !important;
+    background-color: #111328 !important;
 	align-items: center;
 }
 .arch-wrapper {
@@ -61,15 +61,57 @@
     font-family: Playfair;
     font-size: 2.1em;
     margin-bottom: 0;
+    color: white;
 }
-.arch-descr {
+.series-descr {
     font-family: Playfair;
     font-weight: 400;
     font-size: 20px;
     margin-top: 20px;
     margin-bottom: 0px;
+    color: white;
 }
-
+.series-authors{
+    font-family: Playfair;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    color: white;
+}
+.series-authors::first-letter {
+    color: red;
+}
+.series-composers{
+    font-family: Playfair;
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 0px;
+    color: white;
+}
+.series-composers::first-letter {
+    color: red;
+}
+.series-ex_prod{
+    font-family: Playfair;
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 0px;
+    color: white;
+}
+.series-ex_prod::first-letter {
+    color: red;
+}
+.series-main_char{
+    font-family: Playfair;
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 0px;
+    color: white;
+}
+.series-main_char::first-letter {
+    color: red;
+}
 @media only screen and (max-width: 992px) {
     .arch-wrapper {
         flex-direction: column;
