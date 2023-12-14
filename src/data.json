@@ -10,14 +10,14 @@
 		],
 		"gallery": ["1.png", "2.png", "3.png"],
 		"videoLink": "ZLPll5P_4J8",
-		"mapCoordinates": [47.5741, 37.3175]
+		"mapCoordinates": [34.084150844305306, -118.3176331771056]
 	},
 
 	"ananic_uriy": {
 		"events": ["1973 - 1978", "1978 - 2005", "2005", "2010", "2015"],
 		"gallery": ["1.png", "2.png", "3.png"],
 		"videoLink": "aiPzfoALZVw",
-		"mapCoordinates": [53.902284, 27.561831]
+		"mapCoordinates": [51.3432, -3.1807]
 	},
 
 	"karako_viktor": {
@@ -35,7 +35,7 @@
 		],
 		"gallery": ["1.png", "2.png", "3.png"],
 		"videoLink": "4qPrOBChygg",
-		"mapCoordinates": [53.677839, 23.829529]
+		"mapCoordinates": [49.263134888722675, -123.0206042131757]
 	},
 
 	"korol_vladimir": {
@@ -50,7 +50,7 @@
 		],
 		"gallery": ["1.png", "2.png", "3.png"],
 		"videoLink": "TDIfmg_rwtY",
-		"mapCoordinates": [53.714177, 28.418114]
+		"mapCoordinates": [44.054167, -123.021944]
 	},
 
 	"langbard_iosif": {
