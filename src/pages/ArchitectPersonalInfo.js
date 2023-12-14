@@ -29,8 +29,7 @@ function ArchitectPersonalInfo() {
 				/>
 				<Card.Body className="architect-info">
 					<Card.Title className="architect-name">
-						{t(`architects.${id}.surname`)} {t(`architects.${id}.name`)}{" "}
-						{t(`architects.${id}.patronymic`)}
+						{t(`architects.${id}.name`)}
 					</Card.Title>
 					<Card.Text className="architect-years">
 						{data[id]["birthDate"]} - {data[id]["deathDate"]}
