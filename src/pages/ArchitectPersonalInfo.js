@@ -40,7 +40,7 @@ function ArchitectPersonalInfo() {
 				</Card.Body>
 			</Card>
 			<VerticalTimeline
-				lineColor="rgb(255, 165, 0)"
+				lineColor="rgb(20, 149, 219)"
 				layout="1-column-left"
 				className="vertical-info"
 			>
@@ -51,14 +51,14 @@ function ArchitectPersonalInfo() {
 						dateClassName="vertical-timeline-element-date-element"
 						className="vertical-timeline-element--work"
 						contentStyle={{
-							background: "rgb(128, 128, 128)",
+							background: "rgb(0,0,0)",
 							color: "#fff",
 						}}
 						contentArrowStyle={{
 							borderRight: "7px solid  rgb(128, 128, 128)",
 						}}
 						iconStyle={{
-							background: "rgb(255, 165, 0)",
+							background: "rgb(20, 149, 219)",
 						}}
 					>
 						<p>{info[index]}</p>
