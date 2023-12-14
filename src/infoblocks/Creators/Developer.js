@@ -1,9 +1,9 @@
 import Card from 'react-bootstrap/Card';
 import Stack from 'react-bootstrap/Stack';
 import './Developer.css'
-import dev1 from "../../img/dev1.png";
-import dev2 from "../../img/dev2.png";
-import dev3 from "../../img/dev3.png";
+import dev1 from "../../img/Anton_Huscha.jpg";
+import dev2 from "../../img/Milena_Korotkaia.jpg";
+import dev3 from "../../img/Andrei_Churavsky.jpg";
 import {useTranslation} from "react-i18next";
 import '../../i18n.js';
 

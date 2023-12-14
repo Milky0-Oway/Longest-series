@@ -1,6 +1,6 @@
 import { Container, Nav, Navbar } from "react-bootstrap";
 import { Outlet, Link } from "react-router-dom";
-import logo from "../../img/logo.svg";
+import logo from "../../img/Camera.png";
 import rus from "../../img/flagRus.svg";
 import eng from "../../img/flagEng.svg";
 import "./NavigationBar.css";
