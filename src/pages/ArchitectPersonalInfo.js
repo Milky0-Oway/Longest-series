@@ -18,8 +18,8 @@ function ArchitectPersonalInfo() {
 	const { t, i18n } = useTranslation();
 	const params = useParams();
 	const id = params.id;
-	const info = t(`architects.${id}.info`, { returnObjects: true });
-	const captions = t(`architects.${id}.captions`, { returnObjects: true });
+	const info = t(`series.${id}.info`, { returnObjects: true });
+	const captions = t(`series.${id}.captions`, { returnObjects: true });
 	return (
 		<Stack className="architect-section">
 			<Card className="architect-card">
@@ -29,13 +29,13 @@ function ArchitectPersonalInfo() {
 				/>
 				<Card.Body className="architect-info">
 					<Card.Title className="architect-name">
-						{t(`architects.${id}.name`)}
+						{t(`series.${id}.name`)}
 					</Card.Title>
 					<Card.Text className="architect-years">
-						{t(`architects.${id}.birthYear`)} {t(`architects.${id}.deathYear`)}
+						{t(`series.${id}.birthYear`)} {t(`series.${id}.deathYear`)}
 					</Card.Text>
 					<Card.Text className="architect-description">
-						{t(`architects.${id}.longDescription`)}
+						{t(`series.${id}.longDescription`)}
 					</Card.Text>
 				</Card.Body>
 			</Card>

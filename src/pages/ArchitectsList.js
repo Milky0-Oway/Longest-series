@@ -10,7 +10,7 @@ import { useState } from "react"
 function ArchitectsList() {
     const { t, i18n } = useTranslation();
 
-    const arr = Object.keys(data).map((id) => [id, t(`architects.${id}.surname`) + " " + t(`architects.${id}.name`) + " " + t(`architects.${id}.patronymic`)])
+    const arr = Object.keys(data).map((id) => [id, t(`series.${id}.name`) ])
 
     // search field
     const [name, setName] = useState('');
@@ -53,8 +53,8 @@ function ArchitectsList() {
 					                    className="arch-photo"
 				                    />
                                     <div className="arch-inf">
-                                        <p className="series-fio">{t(`architects.${id[0]}.name`)} {t(`architects.${id[0]}.birthYear`)} {t(`architects.${id[0]}.deathYear`)}</p>
-                                        <p className="arch-descr">{t(`architects.${id[0]}.shortDescription`)}</p>
+                                        <p className="series-fio">{t(`series.${id[0]}.name`)} {t(`series.${id[0]}.birthYear`)} {t(`series.${id[0]}.deathYear`)}</p>
+                                        <p className="arch-descr">{t(`series.${id[0]}.shortDescription`)}</p>
                                     </div>
                                 </div>
 

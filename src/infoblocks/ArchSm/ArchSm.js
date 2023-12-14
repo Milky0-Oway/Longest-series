@@ -27,15 +27,15 @@ function PersonOfDay() {
 				/>
 				<Card.Body className="person-info">
 					<Card.Title className="person-name">
-						{t(`architects.${id}.name`)}
+						{t(`series.${id}.name`)}
 					</Card.Title>
 					<Card.Text className="person-years">
-						{t(`architects.${id}.birthYear`)} {t(`architects.${id}.deathYear`)}
+						{t(`series.${id}.birthYear`)} {t(`series.${id}.deathYear`)}
 					</Card.Text>
 					<Card.Text className="person-description">
-						{t(`architects.${id}.shortDescription`)}
+						{t(`series.${id}.shortDescription`)}
 					</Card.Text>
-					<Button className="button-more" as={Link} to={`architects/${id}`}>
+					<Button className="button-more" as={Link} to={`series/${id}`}>
 						{t("personButton")}
 					</Button>
 				</Card.Body>

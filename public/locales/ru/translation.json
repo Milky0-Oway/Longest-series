@@ -19,7 +19,7 @@
 	"architectsListHeader": "Список самых долгих сериалов",
 	"searchCaption": "Поиск сериала",
 
-	"architects": {
+	"series": {
 		"baklanov_michail": {
 			"name": "Звёздный путь",
 			"birthYear": "(1966г",

@@ -18,7 +18,7 @@
 	"architectsListHeader": "List of longest running TV series",
 	"searchCaption": "Search series",
 
-	"architects": {
+	"series": {
 		"baklanov_michail": {
 			"name": "Star Trek",
 			"birthYear": "(1966",
