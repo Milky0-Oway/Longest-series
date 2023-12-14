@@ -3,7 +3,7 @@
     width: 100%;
     padding-top: 15px;
     align-items: center;
-    background-color: black;
+    /*background-color: black;*/
 }
 
 .heading_developers {
@@ -27,7 +27,8 @@
 }
 
 .developer-card {
-    background-color: black !important;
+    background: none !important;
+    /*background-color: black !important;*/
     border: 2px solid skyblue !important;
     border-radius: 50% !important;
     align-items: center !important;
