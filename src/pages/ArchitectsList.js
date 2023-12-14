@@ -28,7 +28,6 @@ function ArchitectsList() {
             setFoundPerson(arr);
             // If the text field is empty, show all users
         }
-
         setName(keyword);
     };
 
@@ -53,13 +52,16 @@ function ArchitectsList() {
 					                    className="arch-photo"
 				                    />
                                     <div className="arch-inf">
-                                        <p className="series-fio">{t(`series.${id[0]}.name`)} {t(`series.${id[0]}.birthYear`)} {t(`series.${id[0]}.deathYear`)}</p>
-                                        <p className="arch-descr">{t(`series.${id[0]}.shortDescription`)}</p>
+                                        <p className="series-fio">{t(`series.${id[0]}.name`)} {t(`series.${id[0]}.Start_Series`)} {t(`series.${id[0]}.End_Series`)}</p>
+                                        <p className="series-descr">{t(`series.${id[0]}.shortDescription`)}</p>
+                                        <p className="series-authors">{t(`series.${id[0]}.Authors`)}</p>
+                                        <p className="series-composers">{t(`series.${id[0]}.Composers`)}</p>
+                                        <p className="series-ex_prod">{t(`series.${id[0]}.Executive_Producers`)}</p>
+                                        <p className="series-main_char">{t(`series.${id[0]}.Main_character`)}</p>
                                     </div>
                                 </div>
 
                             </ListGroup.Item>
-
                         )) : ("")}
 
                     </ListGroup>

@@ -21,8 +21,12 @@
 	"series": {
 		"baklanov_michail": {
 			"name": "Star Trek",
-			"birthYear": "(1966",
-			"deathYear": "- present day)",
+			"Start_Series": "(1966",
+			"End_Series": "- present day)",
+			"Authors": "By Gene Roddenberry, Bryan Fuller and Alex Kurtzman",
+			"Composers": "Composer: Alexander Maher \"Sandy\" Courage Jr.",
+			"Executive_Producers": "Executive Producers: Bryan Fuller, Graham Berg and Aron Herbertz, Hever Kadin and Akiva Goldsman",
+			"Main_character": "The main character is Captain Kirk - Chris Pine",
 			"shortDescription": "«Star Trek» is an American science fiction media franchise about space expeditions, interplanetary conflicts, and interactions between humans and aliens.",
 			"longDescription": " Is an American science fiction media franchise that includes several television series and feature films. Most episodes describe the participation of humans and aliens serving in the Starfleet of the United Federation of Planets in space humanitarian and peacekeeping expeditions. The main characters, having altruistic values, solve complex interplanetary situations. Many of the conflicts and political problems of the series are a reflection of modern cultural reality. Star Trek raised issues that were relevant in the 1960s, and the sequels reflected the problems of their own decades. Various issues were raised: war and peace, the meaning of personal loyalty, authoritarianism, imperialism, class struggle, economics, racism, religion, human rights, sexism, feminism and the role of technology. Roddenberry intended the show to bring a progressive political agenda, reflecting the growing youth counterculture, but he was not entirely transparent about these intentions with the publishers. Through Star Trek, he wanted to show humanity what it could achieve by learning from the lessons of the past, particularly by ending violence.",
 			"info": [
@@ -42,8 +46,12 @@
 
 		"ananic_uriy": {
 			"name": "Doctor Who",
-			"birthYear": "(1963",
-			"deathYear": "- present day)",
+			"Start_Series": "(1963",
+			"End_Series": "- present day)",
+			"Authors": "By Sidney Newman, S. E. Webber, Donald Wilson",
+			"Composers": "Composer: Murray Gold",
+			"Executive_Producers": "Executive Producers: Russell T Davies, Julie Gardner and others",
+			"Main_character": "The main character is the Doctor - David Tennant",
 			"shortDescription": "«Doctor Who»  a british science fiction television series by the BBC about an alien time traveler known as the Doctor.",
 			"longDescription": "A British science fiction television series by the BBC about an alien time traveler known as the Doctor. When Sydney Newman created the series, he specifically did not want to repeat the \"bug-eyed monster\" cliche of science fiction. However, monsters were popular with audiences and became an integral part of Doctor Who almost from the very beginning. Some adversaries have become iconic, such as the Daleks and Cybermen, as well as another Time Lord, the Master. The Doctor was the main character of the series, an eccentric alien traveler of great intelligence, outwardly looking like a man, but having two hearts. He fights injustice by traveling through time and space in his old time machine called the TARDIS, often accompanied by Earth satellites. The TARDIS looks like a 1960s British police box, but is much larger on the inside than on the outside. Over the course of the series, the Doctor \"regenerated\" several times, with his appearance and demeanor changing - this allowed the producers of the series to replace the leading actor, while emphasizing that the character, despite the change of face, remains the same, identical to all previous incarnations of the Doctor . As of October 24, 2022, the main character of the series is the Fourteenth Doctor.",
 			"info": [
@@ -62,8 +70,12 @@
 
 		"karako_viktor": {
 			"name": "Supernatural",
-			"birthYear": "(2005",
-			"deathYear": "- 2020)",
+			"Start_Series": "(2005",
+			"End_Series": "- 2020)",
+			"Authors": "By Eric Kripke",
+			"Composers": "Composers: Jay Gruska, Christopher Lennertz",
+			"Executive_Producers": "Executive Producers: Eric Kripke, Robert Singer, McG, David Nutter and others.",
+			"Main_character": "Main characters – Dean Winchester – Jensen Ackles and Sam Winchester – Jared Padalecki\n",
 			"shortDescription": "«Supernatural» canadian dark fantasy television series about two brothers - hunters of evil spirits - who travel across the United States.",
 			"longDescription": "Canadian dark fantasy television series created by Eric Kripke. The series follows two brothers - hunters of evil spirits - who travel across the United States in a black 1967 Chevrolet Impala, investigating paranormal phenomena, many of which are based on urban legends and folklore, and also fighting the creatures of evil: demons, ghosts and other evil spirits.",
 			"info": [
@@ -82,8 +94,12 @@
 
 		"korol_vladimir": {
 			"name": "The Simpsons",
-			"birthYear": "(1989",
-			"deathYear": "- present day)",
+			"Start_Series": "(1989",
+			"End_Series": "- present day)",
+			"Authors": "By Matt Groening",
+			"Composers": "Composers: Richard Gibbs, Alf Clausen, Bleeding Fingers Music",
+			"Executive_Producers": "Executive Producers: James L. Brooks, Matt Groening, Sam Simon and others.",
+			"Main_character": "The main character is Homer Simpson - Dan Castellanet",
 			"shortDescription": "«The Simpsons» american animated comedy series about the adventures of Homer Simpson's family.",
 			"longDescription": "An American animated situation comedy series, The Simpsons is the longest-running animated series in American television history, running continuously since 1989. The animated series, in a satirical vein, shows the life of the Simpson family and other residents of the fictional town of Springfield, ridiculing many clichés and stereotypes, in particular the lifestyle of the “average American”, features of world cultures in general, celebrities and even television itself and the Fox channel. The series does not hesitate to touch on such sensitive issues as politics and religion: in particular, the topics of same-sex marriage, the struggle of Darwinists and creationists, the war in Iraq, juvenile justice, political correctness, feminism, citizens' rights to guns, legalization of drugs, etc. were raised.",
 			"info": [
@@ -104,8 +120,12 @@
 
 		"langbard_iosif": {
 			"name": "General Hospital ",
-			"birthYear": "(1963",
-			"deathYear": "- present day)",
+			"Start_Series": "(1963",
+			"End_Series": "- present day)",
+			"Authors": "By Frank and Doris Hursley",
+			"Composers": "Composers: R.C. Cates, Paul Glass, Marty Davich ",
+			"Executive_Producers": "Executive producers: Ken Herman, William Ludel, Fido Xavier and others. ",
+			"Main_character": "Main character: Sonny Corinthos – Maurice Bernard",
 			"shortDescription": "\"General Hospital\" is one of the longest-running American daytime television soap operas about the life and work of ordinary doctors from the town of Port Charles.",
 			"longDescription": "“General Hospital” is one of the longest-running American daytime television soap operas, airing on ABC since April 1, 1963. The show was created by screenwriters Frank and Doris Hursley and was set in a hospital in an unnamed fictional town. It was only in the 1970s that this fictional city was given the name Port Charles in New York State.",
 			"info": [
