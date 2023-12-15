@@ -18,7 +18,7 @@ i18n
 		},
 
 		backend: {
-			loadPath: "/Architects-of-Belarus/locales/{{lng}}/{{ns}}.json",
+			loadPath: "/Longest-series/locales/{{lng}}/{{ns}}.json",
 		},
 	});
 

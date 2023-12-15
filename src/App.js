@@ -9,7 +9,7 @@ function App() {
 	return (
 		<>
 			<Routes>
-				<Route path="Architects-of-Belarus/" element={<NavigationBar />}>
+				<Route path="Longest-series/" element={<NavigationBar />}>
 					<Route index element={<Home />} />
 					<Route path="architects" element={<Series_List />} />
 					<Route path="architects/:id" element={<Series_Personal_Info />} />
