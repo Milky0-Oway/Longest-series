@@ -1,33 +1,60 @@
+.series-list-card {
+    background-color: rgba(0, 0, 0, 0) !important;
+    align-items: center;
+}
+
+.series-list-group {
+    align-items: center;
+}
+
+.series-list-item {
+    background: rgba(0, 0, 0, 0) !important;
+    align-items: center;
+    display: flex;
+}
+
+.series-list-card,
+.series-list-group,
+.series-list-item {
+    width: auto !important;
+}
+
+.series-photo {
+    width: 15%;
+    max-width: 100%;
+}
+
 .series-block {
     background-image: url("../img/fon2.png");
     background-size: cover;
+    min-height: 100vh;
 }
 
-.series-list-card{
-    background-color: rgba(0, 0, 0, 0) !important;
-	width: 100% !important;
-	align-items: center;
+.series-list-item:hover {
+    background-color: #111328 !important;
+    opacity: 0.8;
 }
 
-.series-list-group{
-	width: 100% !important;
-	align-items: center;
-}
-
-.series-list-item{
-    background: rgba(0, 0, 0, 0) !important;
-	align-items: center;
-    display:flex;
-}
-.series-photo{
-    width: 15%;
-}
-.series-card{
+.series-wrapper {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
 }
-.series-inf{
-    padding-left: 2%;
-    padding-top: 2%;
+
+.search-form {
+    width: 100%;
+    padding-right: 1%;
+    padding-top: 1%;
+    margin-left: auto;
+    margin-right: 0;
+    max-width: 400px;
+}
+
+.series-inf {
+    padding: 2%;
 }
 .series-list-item:hover{
     background-color: #111328 !important;
