@@ -36,7 +36,7 @@ function PersonOfDay() {
 					<Card.Text className="person-description">
 						{t(`series.${id}.shortDescription`)}
 					</Card.Text>
-					<Button className="button-more" as={Link} to={`series/${id}`}>
+					<Button className="button-more" as={Link} to={`architects/${id}`}>
 						{t("personButton")}
 					</Button>
 				</Card.Body>
