@@ -1,6 +1,6 @@
 {
 	"home_page": "Home",
-	"list_of_arch": "Series",
+	"list_of_series": "Series",
 	"russian_lang": "Russian",
 	"english_lang": "English",
 	"greetings": "Find out about the longest running TV series in history",
@@ -12,8 +12,8 @@
 	"dev2": "Milena Korotkaia",
 	"dev3": "Andrei Churavscky",
 
-	"person_of_day": "Cinema of the day",
-	"personButton": "More...",
+	"Cinema_of_the_day": "Cinema of the day",
+	"Cinema_Button": "More...",
 
 	"architectsListHeader": "List of longest running TV series",
 	"searchCaption": "Search series",

@@ -1,6 +1,6 @@
 import './Home.css'
 import AboutSection from "../infoblocks/Info/Info";
-import Person from "../infoblocks/ArchSm/ArchSm";
+import Person from "../infoblocks/SeriesSm/Series_Sm";
 import Developer from "../infoblocks/Creators/Developer";
 export let id_day;
 function getRandomInt(max) {

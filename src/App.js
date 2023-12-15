@@ -2,8 +2,8 @@ import "./App.css";
 import { Routes, Route } from "react-router-dom";
 import NavigationBar from "./infoblocks/Navigation/NavigationBar";
 import Home from "./pages/Home";
-import ArchitectPersonalInfo from "./pages/ArchitectPersonalInfo";
-import ArchitectsList from "./pages/ArchitectsList";
+import Series_Personal_Info from "./pages/Series_Personal_Info";
+import Series_List from "./pages/Series_List";
 
 function App() {
 	return (
@@ -11,8 +11,8 @@ function App() {
 			<Routes>
 				<Route path="Architects-of-Belarus/" element={<NavigationBar />}>
 					<Route index element={<Home />} />
-					<Route path="architects" element={<ArchitectsList />} />
-					<Route path="architects/:id" element={<ArchitectPersonalInfo />} />
+					<Route path="architects" element={<Series_List />} />
+					<Route path="architects/:id" element={<Series_Personal_Info />} />
 				</Route>
 			</Routes>
 		</>

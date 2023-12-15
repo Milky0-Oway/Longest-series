@@ -1,6 +1,6 @@
 import Card from "react-bootstrap/Card";
 import Stack from "react-bootstrap/Stack";
-import "./ArchitectPersonalInfo.css";
+import "./Series_Personal_Info.css";
 import data from "../data.json";
 import "../i18n.js";
 import { useParams } from "react-router-dom";
@@ -14,27 +14,27 @@ import { YMaps, Map, Placemark, GeoObject } from "@pbe/react-yandex-maps";
 
 import { useTranslation } from "react-i18next";
 
-function ArchitectPersonalInfo() {
+function Series_Personal_Info() {
 	const { t, i18n } = useTranslation();
 	const params = useParams();
 	const id = params.id;
 	const info = t(`series.${id}.info`, { returnObjects: true });
 	const captions = t(`series.${id}.captions`, { returnObjects: true });
 	return (
-		<Stack className="architect-section">
-			<Card className="architect-card">
+		<Stack className="series-section2">
+			<Card className="series-card">
 				<Card.Img
 					src={require(`../img/${id}/fface.png`)}
-					className="architect-photo"
+					className="series-photo"
 				/>
-				<Card.Body className="architect-info">
-					<Card.Title className="architect-name">
+				<Card.Body className="series-info">
+					<Card.Title className="series-name">
 						{t(`series.${id}.name`)}
 					</Card.Title>
-					<Card.Text className="architect-years">
+					<Card.Text className="series-years">
 						{t(`series.${id}.Start_Series`)} {t(`series.${id}.End_Series`)}
 					</Card.Text>
-					<Card.Text className="architect-description">
+					<Card.Text className="series-description">
 						{t(`series.${id}.longDescription`)}
 					</Card.Text>
 				</Card.Body>
@@ -47,11 +47,9 @@ function ArchitectPersonalInfo() {
 				{data[id]["events"].map((time, index) => (
 					<VerticalTimelineElement
 						key={index}
-						date={time}
-						dateClassName="vertical-timeline-element-date-element"
 						className="vertical-timeline-element--work"
 						contentStyle={{
-							background: "rgb(0,0,0)",
+							background: "rgba(0,0,0,0)",
 							color: "#fff",
 						}}
 						contentArrowStyle={{
@@ -81,7 +79,7 @@ function ArchitectPersonalInfo() {
 			</Carousel>
 			<div className="video-wrapper">
 				<iframe
-					className="person-video"
+					className="series-video"
 					src={`https://www.youtube.com/embed/${data[id]["videoLink"]}`}
 					allow="accelerometer; autoplay, picture-in-picture"
 					allowFullScreen
@@ -99,7 +97,7 @@ function ArchitectPersonalInfo() {
 						"control.FullscreenControl",
 						"control.TypeSelector",
 					]}
-					className="person-map"
+					className="series-map"
 				>
 					<Placemark defaultGeometry={data[id]["mapCoordinates"]} />
 				</Map>
@@ -108,4 +106,4 @@ function ArchitectPersonalInfo() {
 	);
 }
 
-export default ArchitectPersonalInfo;
+export default Series_Personal_Info;

@@ -1,7 +1,7 @@
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import Stack from "react-bootstrap/Stack";
-import "./ArchSm.css";
+import "./Series_Sm.css";
 import data from "../../data.json";
 import "../../i18n.js";
 import { Link } from "react-router-dom";
@@ -19,25 +19,25 @@ function PersonOfDay() {
 	let index = id_day;
 	let id = keys[index];
 	return (
-		<Stack className="person-section">
-			<h2 className="heading_person-section">{t("person_of_day")}</h2>
-			<Card className="person-card">
+		<Stack className="series-section">
+			<h2 className="heading_series-section">{t("Cinema_of_the_day")}</h2>
+			<Card className="series-card">
 				<Card.Img
 					src={require(`../../img/${id}/fface.png`)}
-					className="person-photo"
+					className="series-photo"
 				/>
-				<Card.Body className="person-info">
-					<Card.Title className="person-name">
+				<Card.Body className="series-info">
+					<Card.Title className="series-name">
 						{t(`series.${id}.name`)}
 					</Card.Title>
-					<Card.Text className="person-years">
+					<Card.Text className="series-years">
 						{t(`series.${id}.Start_Series`)} {t(`series.${id}.End_Series`)}
 					</Card.Text>
-					<Card.Text className="person-description">
+					<Card.Text className="series-description">
 						{t(`series.${id}.shortDescription`)}
 					</Card.Text>
-					<Button className="button-more" as={Link} to={`architects/${id}`}>
-						{t("personButton")}
+					<Button className="button-more" as={Link} to={`series/${id}`}>
+						{t("Cinema_Button")}
 					</Button>
 				</Card.Body>
 			</Card>

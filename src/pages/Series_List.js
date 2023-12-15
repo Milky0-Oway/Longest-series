@@ -1,4 +1,4 @@
-import './ArchitectsList.css'
+import './Series_List.css'
 import {Form, Image} from "react-bootstrap";
 import Card from 'react-bootstrap/Card';
 import ListGroup from 'react-bootstrap/ListGroup';
@@ -7,7 +7,7 @@ import data from "../data.json";
 import {Link} from "react-router-dom";
 import { useState } from "react"
 
-function ArchitectsList() {
+function Series_List() {
     const { t, i18n } = useTranslation();
 
     const arr = Object.keys(data).map((id) => [id, t(`series.${id}.name`) ])
@@ -33,25 +33,25 @@ function ArchitectsList() {
 
     return (
         <>
-            <div className="architects-block">
-                <div className="arch-wrapper">
+            <div className="series-block">
+                <div className="series-wrapper">
                     <Form className="search-form">
                             <Form.Control className="search-box" type="search" placeholder={t("searchCaption")} onChange={find} />
                     </Form>
                 </div>
 
-                <Card className="architects-list-card">
-                    <ListGroup variant="flush" className="architects-listgroup">
+                <Card className="series-list-card">
+                    <ListGroup variant="flush" className="series-listgroup">
 
                         {foundPerson && foundPerson.length > 0 ? (
                         foundPerson.map((id) =>
-                            <ListGroup.Item action as={Link} to={`${id[0]}`} className="arch-list-item">
-                                <div className="arch-card">
+                            <ListGroup.Item action as={Link} to={`${id[0]}`} className="series-list-item">
+                                <div className="series-card">
                                     <img
 					                    src={require(`../img/${id[0]}/fface.png`)}
-					                    className="arch-photo"
+					                    className="series-photo"
 				                    />
-                                    <div className="arch-inf">
+                                    <div className="series-inf">
                                         <p className="series-fio">{t(`series.${id[0]}.name`)} {t(`series.${id[0]}.Start_Series`)} {t(`series.${id[0]}.End_Series`)}</p>
                                         <p className="series-descr">{t(`series.${id[0]}.shortDescription`)}</p>
                                         <p className="series-authors">{t(`series.${id[0]}.Authors`)}</p>
@@ -73,4 +73,4 @@ function ArchitectsList() {
     )
 }
 
-export default ArchitectsList
+export default Series_List

@@ -1,64 +1,34 @@
 {
 	"baklanov_michail": {
-		"events": [
-			"1914 - 1932",
-			"1932 - 1936",
-			"1936 - 1940",
-			"1940 - 1944",
-			"1944 - 1950",
-			"1950 - 1990"
-		],
+		"events": ["","","","","",""],
 		"gallery": ["1.png", "2.png", "3.png"],
 		"videoLink": "ZLPll5P_4J8",
 		"mapCoordinates": [34.084150844305306, -118.3176331771056]
 	},
 
 	"ananic_uriy": {
-		"events": ["1973 - 1978", "1978 - 2005", "2005", "2010", "2015"],
+		"events": ["","","","",""],
 		"gallery": ["1.png", "2.png", "3.png"],
 		"videoLink": "aiPzfoALZVw",
 		"mapCoordinates": [51.3432, -3.1807]
 	},
 
 	"karako_viktor": {
-		"birthYear": "1948",
-		"deathYear": "...",
-		"events": [
-			"29.07.1948",
-			"1966 — 1972",
-			"1972 — 1976",
-			"1976 — 1982",
-			"1982 — 1998"
-		],
+		"events": ["","","","",""],
 		"gallery": ["1.png", "2.png", "3.png"],
 		"videoLink": "4qPrOBChygg",
 		"mapCoordinates": [49.263134888722675, -123.0206042131757]
 	},
 
 	"korol_vladimir": {
-		"events": [
-			"14.12.1912",
-			"1931 - 1934",
-			"1934 - 1945",
-			"1945 — 1955",
-			"1955 — 1957",
-			"1957 — 1978",
-			"1978 — 1979"
-		],
+		"events": ["","","","","","",""],
 		"gallery": ["1.png", "2.png", "3.png"],
 		"videoLink": "TDIfmg_rwtY",
 		"mapCoordinates": [44.054167, -123.021944]
 	},
 
 	"langbard_iosif": {
-		"events": [
-			"06.01.1882",
-			"1907 — 1914",
-			"1914 - 1918",
-			"1929",
-			"1941 - 1945",
-			"1950 - 1960"
-		],
+		"events": ["","","","","",""],
 		"gallery": ["1.png", "2.png", "3.png"],
 		"videoLink": "GKHlCn-5ax0",
 		"mapCoordinates": [52.765155, 23.186793]
