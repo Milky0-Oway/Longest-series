@@ -1,9 +1,8 @@
 .architect-section {
 	padding-top: 40px;
 	padding-bottom: 40px;
+	background-image: url("../img/back3.jpg");
 	width: 100%;
-	background-color: black;
-	background-size: cover;
 	align-items: center;
 }
 

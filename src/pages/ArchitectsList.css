@@ -1,9 +1,10 @@
 .architects-block {
-    background-color: black;
+    background-image: url("../img/fon2.png");
+    background-size: cover;
 }
 
 .architects-list-card{
-    background-color: black !important;
+    background-color: rgba(0, 0, 0, 0) !important;
 	width: 100% !important;
 	align-items: center;
 }
@@ -14,7 +15,7 @@
 }
 
 .arch-list-item{
-    background-color: black !important;
+    background: rgba(0, 0, 0, 0) !important;
 	align-items: center;
     display:flex;
 }
@@ -30,6 +31,7 @@
 }
 .arch-list-item:hover{
     background-color: #111328 !important;
+    opacity: 0.8;
 	align-items: center;
 }
 .arch-wrapper {
