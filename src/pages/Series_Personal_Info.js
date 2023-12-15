@@ -28,7 +28,7 @@ function Series_Personal_Info() {
 					className="series-photo"
 				/>
 				<Card.Body className="series-info">
-					<Card.Title className="series-name">
+					<Card.Title className="series-name2">
 						{t(`series.${id}.name`)}
 					</Card.Title>
 					<Card.Text className="series-years">
