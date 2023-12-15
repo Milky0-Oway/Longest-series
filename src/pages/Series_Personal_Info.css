@@ -1,4 +1,4 @@
-.architect-section {
+.series-section2 {
 	padding-top: 40px;
 	padding-bottom: 40px;
 	background-image: url("../img/back3.jpg");
@@ -6,8 +6,8 @@
 	align-items: center;
 }
 
-.architect-card {
-	background-color: black !important;
+.series-card {
+	background-color: rgba(0,0,0,0) !important;
 	border: none !important;
 	width: 80%;
 	flex-direction: row !important;
@@ -25,25 +25,25 @@
 	}
 }
 
-.architect-photo {
+.series-photo {
 	width: 20% !important;
 	filter: drop-shadow(4px 4px 30px rgba(0, 0, 0, 0.25));
 }
 
-.architect-name,
-.architect-years {
+.series-name,
+.series-years {
 	font-family: Playfair;
 	font-weight: 500;
 	color: white;
 	font-size: 30px !important;
 }
 
-.architect-name {
+.series-name {
 	color: rgb(255, 0, 0);
 	font-size: 3em !important;
 }
 
-.architect-description {
+.series-description {
 	font-family: Playfair;
 	font-weight: 400;
 	color: white;
@@ -87,65 +87,66 @@
 	width: 60%;
 }
 
-.person-video {
+.series-video {
 	width: 100%;
 	margin-top: 20px;
 	height: 600px;
+
 }
 
-.person-map {
+.series-map {
 	margin-top: 20px;
 	margin-bottom: 20px;
-	width: 80%;
 	height: 600px;
+	width: 1100px;
 }
 
 @media only screen and (max-width: 992px) {
-	.architect-photo {
+	.series-photo {
 		height: 40% !important;
 		width: 40% !important;
 	}
 
-	.architect-section {
+	.series-section {
 		width: 100% !important;
 	}
 
-	.architect-card {
+	.series-card {
 		flex-direction: column !important;
 		align-items: center !important;
 	}
 
-	.person-video,
-	.person-map {
+	.series-video,
+	.series-map {
 		height: 450px;
 	}
 
-	.architect-info {
+	.series-info {
 		text-align: center;
 	}
 }
 
 @media only screen and (max-width: 600px) {
-	.architect-section {
+	.series-section {
 		width: 100% !important;
 	}
 
-	.architect-card {
+	.series-card {
 		flex-direction: column !important;
 		align-items: center !important;
 	}
 
-	.architect-info {
+	.series-info {
 		text-align: center;
 	}
 
-	.architect-photo {
+	.series-photo {
 		height: 60% !important;
 		width: 60% !important;
 	}
 
-	.person-video,
-	.person-map {
+	.series-video,
+	.series-map {
 		height: 250px;
 	}
 }

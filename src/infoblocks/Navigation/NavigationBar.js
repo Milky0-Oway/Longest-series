@@ -21,7 +21,7 @@ function NavigationBar() {
 								{t("home_page")}
 							</Link>
 							<Link to="architects" className="nav-link">
-								{t("list_of_arch")}
+								{t("list_of_series")}
 							</Link>
 						</Nav>
 						<div className="nav-languages">

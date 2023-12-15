@@ -1,40 +1,40 @@
-.architects-block {
+.series-block {
     background-image: url("../img/fon2.png");
     background-size: cover;
 }
 
-.architects-list-card{
+.series-list-card{
     background-color: rgba(0, 0, 0, 0) !important;
 	width: 100% !important;
 	align-items: center;
 }
 
-.architects-list-group{
+.series-list-group{
 	width: 100% !important;
 	align-items: center;
 }
 
-.arch-list-item{
+.series-list-item{
     background: rgba(0, 0, 0, 0) !important;
 	align-items: center;
     display:flex;
 }
-.arch-photo{
+.series-photo{
     width: 15%;
 }
-.arch-card{
+.series-card{
     display: flex;
 }
-.arch-inf{
+.series-inf{
     padding-left: 2%;
     padding-top: 2%;
 }
-.arch-list-item:hover{
+.series-list-item:hover{
     background-color: #111328 !important;
     opacity: 0.8;
 	align-items: center;
 }
-.arch-wrapper {
+.series-wrapper {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -115,7 +115,7 @@
     color: red;
 }
 @media only screen and (max-width: 992px) {
-    .arch-wrapper {
+    .series-wrapper {
         flex-direction: column;
     }
 

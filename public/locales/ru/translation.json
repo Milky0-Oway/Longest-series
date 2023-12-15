@@ -1,6 +1,6 @@
 {
 	"home_page": "Главная",
-	"list_of_arch": "Сериалы",
+	"list_of_series": "Сериалы",
 	"russian_lang": "Русский",
 	"english_lang": "Английский",
 	"greetings": "Узнайте о самых долгих сериалах в истории",
@@ -13,10 +13,9 @@
 	"dev3": "Андрей Чуравский",
 	"github": "GitHub",
 
-	"person_of_day": "Кино дня",
-	"personButton": "Ещё...",
+	"Cinema_of_the_day": "Кино дня",
+	"Cinema_Button": "Ещё...",
 
-	"architectsListHeader": "Список самых долгих сериалов",
 	"searchCaption": "Поиск сериала",
 
 	"series": {
