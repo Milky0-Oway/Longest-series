@@ -27,6 +27,7 @@
 	width: 75%;
 	flex-direction: row !important;
 	align-items: center !important;
+	border: none!important;
 }
 
 .person-photo {

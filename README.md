@@ -1,5 +1,5 @@
-# Architects-of-Belarus
+# Longest-series
 
 the second project in the discipline "frontend"
 
-https://denkorporation.github.io/Architects-of-Belarus/
+https://github.com/SSDishnik/Longest-series

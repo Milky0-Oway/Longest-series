@@ -5,6 +5,7 @@ import "./ArchSm.css";
 import data from "../../data.json";
 import "../../i18n.js";
 import { Link } from "react-router-dom";
+import {id_day} from "../../pages/Home.js"
 
 import { useTranslation } from "react-i18next";
 
@@ -15,7 +16,7 @@ function getRandomInt(max) {
 function PersonOfDay() {
 	const { t, i18n } = useTranslation();
 	const keys = Object.keys(data);
-	let index = getRandomInt(5);
+	let index = id_day;
 	let id = keys[index];
 	return (
 		<Stack className="person-section">
